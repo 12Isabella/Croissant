@@ -1,7 +1,24 @@
+body {
+background-color: aquamarine;
+}
+
 h1 {
     text-align: center;
 }
-footer {
+p {
+    display: block;
+    text-align: center;
+    margin: 20px;
    
+}
+footer {
+   display: flex;
+   justify-content:space-evenly;
 
+}
+img {
+    max-width: 50%;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
 }
